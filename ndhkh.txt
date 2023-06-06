@@ -1,2 +1,0 @@
-# chatwith-ch
-chat application
